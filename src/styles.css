@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~font-awesome/css/font-awesome.min.css";
+nav{
+  padding:20px;
+}
+
+.choicebtn{
+  margin-left: 5px;
+}
+
+.search-form{
+  margin-left: auto;
+}
+
+.search-form .form-control{
+  display: inline-block;
+  width:80%
+}
+
+.search-form button{
+  position: absolute;
+  top:22%;
+  margin-left: 2%;
+}
+

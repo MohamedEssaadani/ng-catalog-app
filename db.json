@@ -1,24 +1,16 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "DELL XPS",
-      "price": 18000,
-      "quantity": 21,
+      "id": 3,
+      "name": "Printer",
+      "price": 5000,
+      "quantity": 12,
       "selected": true,
       "available": true
     },
     {
-      "id": 2,
-      "name": "DELL Latitude",
-      "price": 9000,
-      "quantity": 99,
-      "selected": false,
-      "available": true
-    },
-    {
-      "id": 3,
-      "name": "Printer",
+      "id": 1,
+      "name": "DELL",
       "price": 5000,
       "quantity": 12,
       "selected": true,
